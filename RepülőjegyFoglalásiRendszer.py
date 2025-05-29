@@ -85,7 +85,7 @@ legitarsasag.jegyet_foglal("Tóth Szilvia", "MA471")
 
 def menu():
     while True:
-        print(f"\n--- {legitarsasag.nev} Repülőjegy Foglalási Rendszer ---")
+        print("Repülőjegy Foglalási Rendszer ---")
         print("1. Jegy foglalása")
         print("2. Foglalás lemondása")
         print("3. Foglalások listázása")
